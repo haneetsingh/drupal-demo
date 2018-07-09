@@ -1,0 +1,5 @@
+name = My Panel
+description = Custom module for panel layouts
+core = 7.x
+package = Custom Modules
+dependencies[] = panels
